@@ -18,4 +18,4 @@ Per completare questo esercizio si consiglia di:
 - utilizzare `break` e `continue` per decidere quando e se uscire dal loop infinito
 - utilizzare le RegEx per effettuare alcuni dei controlli
 
-Una volta svolto l'esercizio in classe, questa repository sarà aggiornata con una soluzione funzionante nelal cartella `soluzione`.
+Una volta svolto l'esercizio in classe, questa repository sarà aggiornata con una soluzione funzionante nella cartella `soluzione`.
